@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 # Hey 👋
 
-My name is Marlon Silva 🙋‍♂️
-
-I'm A Computer Engineer, that has been working as a Front-End developer since 2018.  💻
+My name is Marlon Silva 🙋‍♂️💻
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
