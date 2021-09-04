@@ -19,7 +19,9 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ##
 </div>
 
- <span>⠀⠀⠀⠀</span><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=marlonsilva21&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> <span>⠀⠀</span>  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonSilva21&&layout=compact&hide=shell&theme=chartreuse-dark"/> 
+<div align="center">
+<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=marlonsilva21&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> <span>⠀</span>  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonSilva21&&layout=compact&hide=shell&theme=chartreuse-dark"/> 
+ </div>
  
 ##
 <div align="center">
