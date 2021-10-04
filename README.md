@@ -11,10 +11,8 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
  📍 From Brazil living in São Paulo <br />
  💻 Junior fullstack java programmer <br />
- 👨🏽‍💻 Attending bootcamp Generation Brazil <br />
  🎓 Graduating from information systems <br />
  
- <img height="180em" align="end"  src="https://www.emugifs.net/wp-content/uploads/2018/11/Cadillacs-and-Dinosaurs-Arcade-Game-Beat-em-up-by-Capcom-1993-Pteranodon.gif"/>
 
 ##
 </div>
@@ -44,30 +42,3 @@ I'm passionate about solving problems and learning. Always open to new challenge
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/marlon-silva-43075a184/)  [<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send?phone=5511964475776) [<img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/josemarlondasil1) [<img alt="Gmail" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/marlonsilva21)   
  
  </div>
- 
- 	
- 	
-
-<div align="center">
-<img height="180em" align="center"  src="https://www.emugifs.net/wp-content/uploads/2018/11/Cadillacs-and-Dinosaurs-Arcade-Game-Beat-em-up-by-Capcom-1993-Car.gif"/> 
-</div>
- 
- 
-
-<p align="center"> km traveled </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/marlonsilva21/count.svg" /></p>
-
- <br />
- <br />
-<div align="left">
-<img height="20em" align="left"  src="https://www.emugifs.net/wp-content/uploads/2018/11/Cadillacs-and-Dinosaurs-Arcade-Game-Beat-em-up-by-Capcom-1993-Mustapha-Cairo.gif"/> 
-</div>
-<div align="center">
- <img height="20em" align="center"  src="https://www.emugifs.net/wp-content/uploads/2018/11/Cadillacs-and-Dinosaurs-Arcade-Game-Beat-em-up-by-Capcom-1993-Mustapha-Cairo-2.gif"/> 
-</div>
-<div align="right">
- <img height="20em" align="right"  src="https://www.emugifs.net/wp-content/uploads/2018/11/Cadillacs-and-Dinosaurs-Arcade-Game-Beat-em-up-by-Capcom-1993-Tyrannosaurus-Rex-T-Rex.gif"/> 
-</div> 
-
-
-
