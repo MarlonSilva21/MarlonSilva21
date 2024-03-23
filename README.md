@@ -10,8 +10,9 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
  📍 From Brazil living in São Paulo <br />
- 💻 Junior fullstack java programmer <br />
- 🎓 Graduating from information systems <br />
+ 💻 Mid Software Engineer <br />
+ 🎓 Graduate in information systems <br />
+ 🎓 Postgraduate degree in software architecture <br />
  
 
 ##
